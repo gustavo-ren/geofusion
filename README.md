@@ -1,2 +1,2 @@
 # geofusion
-Desafio técnico para vaga de programado
+Desafio técnico para vaga de programador
